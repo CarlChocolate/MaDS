@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-09-16T15:28:42.092Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="hzi-gzy3cC48NoEOzHbB" version="21.6.6" type="device">
+  <diagram name="Page-1" id="vc3jPWbZShCnOlXhxFDt">
+    <mxGraphModel dx="1095" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#05C3DE;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="440" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00A499;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="350" width="130" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00A499;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="130" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-4" value="&lt;font color=&quot;#05c3de&quot; face=&quot;Lato&quot;&gt;NodeContainer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-5" value="&lt;font color=&quot;#00a499&quot; face=&quot;Lato&quot;&gt;Node&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-6" value="&lt;font color=&quot;#00a499&quot; face=&quot;Lato&quot;&gt;Node&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#666666;strokeColor=#666666;strokeWidth=2;startArrow=block;startFill=1;endArrow=block;endFill=1;endSize=3;startSize=3;" edge="1" parent="1" source="Se8lFILso1mCLKZJ9Cdy-7" target="Se8lFILso1mCLKZJ9Cdy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-7" value="Physical Device" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-8" value="Physical Device" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-12" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-10" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#666666&quot; face=&quot;Lato&quot;&gt;Point-to-Point&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Se8lFILso1mCLKZJ9Cdy-12">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-11" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot; color=&quot;#666666&quot; face=&quot;Lato&quot;&gt;&lt;i&gt;Datarate, Delay&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 6px;&quot; color=&quot;#666666&quot; face=&quot;Lato&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Se8lFILso1mCLKZJ9Cdy-12">
+          <mxGeometry y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0047BB;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-14" value="&lt;font color=&quot;#0047bb&quot; face=&quot;Lato&quot;&gt;NetDeviceContainer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-18" value="MAC Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-19" value="MAC Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E4002B;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="360" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-26" value="IP Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="525" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-27" value="IP Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="525" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-29" value="&lt;font color=&quot;#e4002b&quot; face=&quot;Lato&quot;&gt;Ipv4Interface Container&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="513" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-30" value="Transport Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-31" value="Transport Layer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#8246AF;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="360" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-37" value="Application" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="405" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-38" value="Application" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB81C;fontFamily=Lato;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLato;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="410" y="405" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Se8lFILso1mCLKZJ9Cdy-39" value="&lt;font color=&quot;#8246af&quot; face=&quot;Lato&quot;&gt;ApplicationContainer&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="393" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
